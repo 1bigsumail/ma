@@ -36,10 +36,6 @@ html, body {
 	background:url(../images/blue-bg.png) no-repeat left top;
 	background-size:100% auto;
 }
-.orange-bg{
-	background:url(../images/orange-bg.png) no-repeat left top;
-	background-size:100% auto;
-}
 .top-header{
 	line-height:44px;
 	height:44px;
@@ -104,13 +100,13 @@ html, body {
 	color:black;
 	/*font-weight: bold;*/
 }
-.qr{
+.img{
 	/*width:70%;*/
 	/*margin:15px auto;*/
 	text-align: center;
 	margin:0 auto;
 }
-.qr img{
+.img{
 	width:100%;
 	height:auto;
 }
